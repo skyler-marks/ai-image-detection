@@ -1,2 +1,7 @@
 
-scfake
+cifake
+cifake*
+*.npy
+output*
+.vscode
+.ipynb_checkpoints
